@@ -52,3 +52,4 @@ Key - Bindings
 Zoom            - ctrl + plus, minus, equal
 Scollback       - shift + page_up, page_down (mouse scroll)
 Externalpipe    - Can be used for copy/paste/etc.. just not working yet
+                    - Should be ctrl + c,v,y (i dont think i have a clipboard set up yet)
